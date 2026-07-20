@@ -1,0 +1,9 @@
+a8713e2d-4d21-4dc9-8737-b8901a93dd57|Mango |Fresh Products|2.00|50|fresh mangoss|/uploads/images/f721ec7a-6826-4111-a7d7-5cc5f1611641.jpg|2025-04-14T00:10:59.949110800
+cab126aa-2f74-416e-b658-95aba318ae55|Orange|Fruits|3.00|100|Fresh Orange|/uploads/images/45e7c0c4-d57c-4b44-b65c-4fa2ed7a967d.jpg|2025-05-07T21:17:32.422129800
+e296b3f1-c188-413f-b128-ea272eea29d3|Grapes|Fruits|2|100|Grapes|/uploads/images/7f107887-3c0b-43ce-b96c-662fa6d78c57.jpg|2025-05-07T21:24:58.167967900
+59f5ed6c-25f5-44fe-8a79-cd4821420618|Cheese|Dairy|6|50|Fresh Products|/uploads/images/8b182ba6-9406-47b4-8466-5641f21b3422.jpg|2025-05-07T21:27:51.426713900
+add70b1b-869d-43ba-9411-49a1599112d7|Milk|Dairy|5|100|Fresh Milk|/uploads/images/df1a73c8-475f-483e-9a03-27f0721c2d88.avif|2025-05-07T21:29:05.922542100
+c52e0213-218d-4193-80da-a7b05b3e393d|Pumpkin|Vegetables|2|50|Pumpkin|/uploads/images/fea717f1-99ba-41e6-a06e-6cbcaaaaf931.avif|2025-05-07T21:32:11.715968800
+31ebed48-8b5a-413e-ac2c-52eda7040230|Carrot|Vegetables|3|100|Carrot|/uploads/images/ba884c4d-74fc-41f5-96ef-b9a53ab7364b.jpg|2025-05-07T21:33:32.463319900
+fab13207-cdcd-48a4-a44c-eef25a917458|Cinnamon|Pantry Items|2|50|Cinnamon|/uploads/images/a611afeb-9900-4e09-9213-059dc884e7ff.avif|2025-05-07T21:34:59.622273300
+adc9d3b8-c50e-4aaf-8ba2-370ebbe88b26|Olive Oil|Pantry Items|6|40|Olive Oil|/uploads/images/53ca194c-f6ef-4f23-909e-5ecad120d794.avif|2025-05-07T21:37:37.388683700
