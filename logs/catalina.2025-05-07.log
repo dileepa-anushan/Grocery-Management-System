@@ -1,0 +1,163 @@
+07-May-2025 20:48:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.102
+07-May-2025 20:48:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 3 2025 19:33:14 UTC
+07-May-2025 20:48:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.102.0
+07-May-2025 20:48:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+07-May-2025 20:48:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2025 20:48:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2025 20:48:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\User\.jdks\openjdk-24.0.1
+07-May-2025 20:48:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+07-May-2025 20:48:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2025 20:48:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement
+07-May-2025 20:48:58.823 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.102
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.102
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\temp
+07-May-2025 20:48:58.828 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\logging.properties
+07-May-2025 20:48:58.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2025 20:48:58.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2\lib\idea_rt.jar=64498
+07-May-2025 20:48:58.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+07-May-2025 20:48:58.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+07-May-2025 20:48:58.829 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+07-May-2025 20:48:59.039 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+07-May-2025 20:48:59.039 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+07-May-2025 20:48:59.039 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2025 20:48:59.048 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+07-May-2025 20:48:59.338 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:48:59.347 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [763] milliseconds
+07-May-2025 20:48:59.380 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2025 20:48:59.380 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.102]
+07-May-2025 20:48:59.387 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\Catalina\localhost\grocerymanagement.xml]
+07-May-2025 20:48:59.797 WARNING [main] org.apache.jasper.servlet.TldScanner.scanJspConfig Failed to process TLD with path [/WEB-INF/functions.tld] and URI [http://java.sun.com/jsp/jstl/functions]. The specified path does not exist.
+07-May-2025 20:48:59.855 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2025 20:48:59.928 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\Catalina\localhost\grocerymanagement.xml] has finished in [540] ms
+07-May-2025 20:48:59.931 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:48:59.952 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [602] milliseconds
+07-May-2025 20:49:11.980 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:49:11.998 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-May-2025 20:49:12.005 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:49:12.008 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:49:19.381 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.102
+07-May-2025 20:49:19.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 3 2025 19:33:14 UTC
+07-May-2025 20:49:19.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.102.0
+07-May-2025 20:49:19.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+07-May-2025 20:49:19.382 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2025 20:49:19.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2025 20:49:19.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\User\.jdks\openjdk-24.0.1
+07-May-2025 20:49:19.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+07-May-2025 20:49:19.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2025 20:49:19.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement
+07-May-2025 20:49:19.383 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.102
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.102
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\temp
+07-May-2025 20:49:19.388 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\logging.properties
+07-May-2025 20:49:19.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2025 20:49:19.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2\lib\idea_rt.jar=64504
+07-May-2025 20:49:19.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+07-May-2025 20:49:19.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+07-May-2025 20:49:19.389 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+07-May-2025 20:49:19.391 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+07-May-2025 20:49:19.391 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+07-May-2025 20:49:19.391 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2025 20:49:19.398 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+07-May-2025 20:49:19.584 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:49:19.602 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [345] milliseconds
+07-May-2025 20:49:19.650 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2025 20:49:19.650 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.102]
+07-May-2025 20:49:19.657 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\Catalina\localhost\grocerymanagement.xml]
+07-May-2025 20:49:20.020 WARNING [main] org.apache.jasper.servlet.TldScanner.scanJspConfig Failed to process TLD with path [/WEB-INF/functions.tld] and URI [http://java.sun.com/jsp/jstl/functions]. The specified path does not exist.
+07-May-2025 20:49:20.081 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2025 20:49:20.154 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\Catalina\localhost\grocerymanagement.xml] has finished in [496] ms
+07-May-2025 20:49:20.157 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2025 20:49:20.177 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [573] milliseconds
+07-May-2025 20:59:31.319 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.addToCart Request Parameters: 
+07-May-2025 20:59:31.325 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: productId, Value: a8713e2d-4d21-4dc9-8737-b8901a93dd57
+07-May-2025 20:59:31.326 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: quantity, Value: 12
+07-May-2025 20:59:31.326 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.addToCart Adding to cart - ProductID: a8713e2d-4d21-4dc9-8737-b8901a93dd57, Quantity: 12
+07-May-2025 20:59:31.334 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.addToCart Cart updated successfully - Item count: 1, Total: 24.00
+07-May-2025 20:59:44.148 INFO [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.updateCart Updating cart - ProductID: a8713e2d-4d21-4dc9-8737-b8901a93dd57, Quantity: 11
+07-May-2025 20:59:44.157 INFO [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.updateCart Cart updated successfully - Items: 1, Total: 22.00
+07-May-2025 21:09:14.721 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.removeFromCart Entering removeFromCart method
+07-May-2025 21:09:14.721 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.removeFromCart Attempting to remove product: a8713e2d-4d21-4dc9-8737-b8901a93dd57 from cart of user: Senura1
+07-May-2025 21:09:14.727 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.removeFromCart Successfully removed product a8713e2d-4d21-4dc9-8737-b8901a93dd57 from cart. New cart size: 0
+07-May-2025 21:09:17.865 INFO [http-nio-8080-exec-6] com.grocerymanagement.servlet.CartServlet.removeFromCart Entering removeFromCart method
+07-May-2025 21:09:17.865 INFO [http-nio-8080-exec-6] com.grocerymanagement.servlet.CartServlet.removeFromCart Attempting to remove product: a8713e2d-4d21-4dc9-8737-b8901a93dd57 from cart of user: Senura1
+07-May-2025 21:09:17.866 WARNING [http-nio-8080-exec-6] com.grocerymanagement.servlet.CartServlet.removeFromCart Product a8713e2d-4d21-4dc9-8737-b8901a93dd57 not found in cart for user Senura1
+07-May-2025 21:46:46.612 INFO [http-nio-8080-exec-2] com.grocerymanagement.servlet.CartServlet.addToCart Request Parameters: 
+07-May-2025 21:46:46.613 INFO [http-nio-8080-exec-2] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: productId, Value: 
+07-May-2025 21:46:46.613 INFO [http-nio-8080-exec-2] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: quantity, Value: 
+07-May-2025 21:46:46.614 INFO [http-nio-8080-exec-2] com.grocerymanagement.servlet.CartServlet.addToCart Adding to cart - ProductID: , Quantity: 
+07-May-2025 21:46:46.614 WARNING [http-nio-8080-exec-2] com.grocerymanagement.servlet.CartServlet.addToCart Invalid product ID: Empty or null
+07-May-2025 21:46:52.571 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.addToCart Request Parameters: 
+07-May-2025 21:46:52.571 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: productId, Value: 
+07-May-2025 21:46:52.571 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: quantity, Value: 
+07-May-2025 21:46:52.571 INFO [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.addToCart Adding to cart - ProductID: , Quantity: 
+07-May-2025 21:46:52.572 WARNING [http-nio-8080-exec-7] com.grocerymanagement.servlet.CartServlet.addToCart Invalid product ID: Empty or null
+07-May-2025 21:46:58.338 INFO [http-nio-8080-exec-5] com.grocerymanagement.servlet.CartServlet.addToCart Request Parameters: 
+07-May-2025 21:46:58.340 INFO [http-nio-8080-exec-5] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: productId, Value: 
+07-May-2025 21:46:58.340 INFO [http-nio-8080-exec-5] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: quantity, Value: 
+07-May-2025 21:46:58.340 INFO [http-nio-8080-exec-5] com.grocerymanagement.servlet.CartServlet.addToCart Adding to cart - ProductID: , Quantity: 
+07-May-2025 21:46:58.340 WARNING [http-nio-8080-exec-5] com.grocerymanagement.servlet.CartServlet.addToCart Invalid product ID: Empty or null
+07-May-2025 21:46:59.250 INFO [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.addToCart Request Parameters: 
+07-May-2025 21:46:59.251 INFO [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: productId, Value: 
+07-May-2025 21:46:59.251 INFO [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: quantity, Value: 
+07-May-2025 21:46:59.251 INFO [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.addToCart Adding to cart - ProductID: , Quantity: 
+07-May-2025 21:46:59.251 WARNING [http-nio-8080-exec-8] com.grocerymanagement.servlet.CartServlet.addToCart Invalid product ID: Empty or null
+07-May-2025 21:47:03.994 INFO [http-nio-8080-exec-4] com.grocerymanagement.servlet.CartServlet.addToCart Request Parameters: 
+07-May-2025 21:47:03.995 INFO [http-nio-8080-exec-4] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: productId, Value: 
+07-May-2025 21:47:03.995 INFO [http-nio-8080-exec-4] com.grocerymanagement.servlet.CartServlet.lambda$addToCart$0 Key: quantity, Value: 
+07-May-2025 21:47:03.995 INFO [http-nio-8080-exec-4] com.grocerymanagement.servlet.CartServlet.addToCart Adding to cart - ProductID: , Quantity: 
+07-May-2025 21:47:03.995 WARNING [http-nio-8080-exec-4] com.grocerymanagement.servlet.CartServlet.addToCart Invalid product ID: Empty or null
+07-May-2025 21:47:23.243 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-May-2025 21:47:23.350 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+07-May-2025 21:47:23.415 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-May-2025 21:47:23.430 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-May-2025 21:47:38.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.102
+07-May-2025 21:47:38.292 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 3 2025 19:33:14 UTC
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.102.0
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\User\.jdks\openjdk-24.0.1
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           24.0.1+9-30
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement
+07-May-2025 21:47:38.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-9.0.102
+07-May-2025 21:47:38.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+07-May-2025 21:47:38.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+07-May-2025 21:47:38.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+07-May-2025 21:47:38.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+07-May-2025 21:47:38.298 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-9.0.102
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\temp
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\logging.properties
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2\lib\idea_rt.jar=52409
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+07-May-2025 21:47:38.299 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+07-May-2025 21:47:38.529 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+07-May-2025 21:47:38.530 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+07-May-2025 21:47:38.530 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+07-May-2025 21:47:38.540 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+07-May-2025 21:47:38.778 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-May-2025 21:47:38.789 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [717] milliseconds
+07-May-2025 21:47:38.846 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+07-May-2025 21:47:38.847 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.102]
+07-May-2025 21:47:38.853 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\Catalina\localhost\grocerymanagement.xml]
+07-May-2025 21:47:39.211 WARNING [main] org.apache.jasper.servlet.TldScanner.scanJspConfig Failed to process TLD with path [/WEB-INF/functions.tld] and URI [http://java.sun.com/jsp/jstl/functions]. The specified path does not exist.
+07-May-2025 21:47:39.265 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-May-2025 21:47:39.340 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\User\IdeaProjects\grocerymanagement\grocerymanagement\conf\Catalina\localhost\grocerymanagement.xml] has finished in [486] ms
+07-May-2025 21:47:39.342 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-May-2025 21:47:39.362 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [572] milliseconds
